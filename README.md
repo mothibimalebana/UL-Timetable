@@ -6,10 +6,10 @@ A web app made for students attending the university of Limpopo. Every year the 
 Admin uploads the master Excel timetable on this page
 
 ## Modules
-### before
+### before adding modules
 Students search their respective modules
 
-### after
+### after adding modules
 After selection of modules, the modules that were selected will be displayed on homepage 
 
 
