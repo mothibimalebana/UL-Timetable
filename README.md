@@ -8,9 +8,12 @@ Admin uploads the master Excel timetable on this page
 ## Modules
 ### before adding modules
 Students search their respective modules
+<img width="1449" height="1638" alt="Frame 1" src="https://github.com/user-attachments/assets/14521503-0160-4188-a836-b37ba4520fc7" />
 
 ### after adding modules
 After selection of modules, the modules that were selected will be displayed on homepage 
+<img width="1369" height="1638" alt="Student Timetable Web App" src="https://github.com/user-attachments/assets/6f6665ff-df9c-4c91-90f9-79d3f804dc02" />
+<img width="1625" height="1638" alt="Student Timetable Web App (1)" src="https://github.com/user-attachments/assets/290589af-a76a-425f-aed7-36afde880ae1" />
 
 
 
