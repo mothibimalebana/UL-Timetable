@@ -1,0 +1,6 @@
+front-end/node_modules
+front-end/package-lock.json
+front-end/dist
+front-end/eslint.config.json
+front-end/tsconfig.app.json
+frot-end/tsconfig.json
