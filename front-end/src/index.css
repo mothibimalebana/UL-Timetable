@@ -30,12 +30,17 @@
 
 @theme {
   --color-blue: #003362;
-    --color-white: #FFF;
+  --color-white: #FFF;
   --color-gold: #C7A941;
   --color-grey: #ABABAB; 
 
   --font-inter: 'Inter';
-  --font-poppins: 'Popins'
+  --font-secondary: 'Poppins';
+  --font-secondaryBold: 'Poppins-Bold';
+
+  --text-big: 2.5rem;
+  --text-standard: 1.3rem;
+  --text-small: 1rem;
 
 }
 
@@ -47,3 +52,4 @@
 #root {
   height: 100%;
 }
+
