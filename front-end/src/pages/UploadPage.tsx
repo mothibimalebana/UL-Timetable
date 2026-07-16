@@ -1,5 +1,5 @@
-import UploadFooter from "../components/upload/Footer";
-import UploadHeader from "../components/upload/Header";
+import UploadFooter from "../components/upload/UploadFooter";
+import UploadHeader from "../components/upload/UploadHeader";
 import Upload from "../components/upload/Upload";
 
 

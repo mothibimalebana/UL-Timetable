@@ -2,7 +2,7 @@ import Ul from '../assets/svg/ULLogo.svg';
 
 export default function Header (){
     return(
-        <div className="header flex gap-5 items-center bg-blue pt-[1rem] pl-[3rem] pb-[0.7rem]">
+        <div className="header flex gap-5 items-center bg-blue md:pt-[1rem] md:pl-[3rem] md:pb-[0.7rem]">
             <img src={Ul} alt="" />
             <div className="text">
                 <h3 className='text-white text-standard'>University Of Limpopo</h3>

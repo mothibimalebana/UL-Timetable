@@ -1,7 +1,6 @@
 import './App.css'
-import Footer from './components/UploadFooter'
-import Header from './components/UploadHeader'
-
+import Footer from './components/Footer'
+import Header from './components/Header'
 import UploadPage from './pages/UploadPage'
 
 
