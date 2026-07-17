@@ -1,15 +1,15 @@
 import './App.css'
 import Footer from './components/Footer'
 import Header from './components/Header'
-import UploadPage from './pages/UploadPage'
-
+import Card from './components/selection/Card'
+import calendarIcon from '../src/assets/svg/blueCalendar.svg'
 
 function App() {
 
   return (
     <div className='flex flex-col h-full justify-between'>
       <Header/>
-        <UploadPage/>
+        <Card img={calendarIcon} count="6" content='Modules'/>
       <Footer/>
     </div>
   )

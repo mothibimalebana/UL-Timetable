@@ -31,6 +31,7 @@
 @theme {
   --color-black: #1B2642;
   --color-blue: #003362;
+  --color-ocean: #0C71C3;
   --color-white: #FFF;
   --color-gold: #C7A941;
   --color-grey: #ABABAB; 
@@ -54,3 +55,9 @@
   height: 100%;
 }
 
+button:hover {
+    cursor: pointer;
+}
+img:hover {
+    cursor: pointer;
+}
